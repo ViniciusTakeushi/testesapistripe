@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJKn2v0tiBK9sxT3UUADo2pcv8E0EGFsh1KGaBiVdpafEah1jxFqHxzioEqXVjHeWTx9ML+6qcRkWlbbkR7/ag==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\TesteStripe\\TesteStripe\\TesteStripe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius Takeushi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Vinicius Takeushi\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\Vinicius Takeushi\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
