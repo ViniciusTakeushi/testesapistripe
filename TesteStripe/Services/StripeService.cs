@@ -10,7 +10,7 @@ namespace TesteStripe.Services
 {
     public class StripeService
     {
-        private readonly string _apiKey = "sk_test_51L98tbGRmqRb4WGtbStU2TUlOhf4JcCZRRiZis64ZPpmyp3iOWVhErayE9x7PPGfhOATkoaw6fhL54xC4vSkmXFk002tk2oW3V";
+        private readonly string _apiKey = "SUA CHAVE";
         private readonly string _defaultUrl = "https://api.stripe.com/v1/";
 
         public Dictionary<bool, string> PayWithCard(string cardNumber, string cvc, string expireMonth, string expireYear, double amount, string description)
